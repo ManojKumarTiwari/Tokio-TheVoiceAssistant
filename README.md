@@ -5,7 +5,7 @@
 ```sh
 pip install -r requirements.txt
 ```
-- Note: I had Chrome Brower version 85.x so I also install chromedriver 85.x. Download and replace the chromedriver according to your brower
+- Note: I had Chrome Brower version 85.x so I also installed chromedriver 85.x. Download and replace the chromedriver according to your brower
 
 ## Usage example
 ```sh
