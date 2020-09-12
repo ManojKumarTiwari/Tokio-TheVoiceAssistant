@@ -38,7 +38,10 @@ python Tokio.py
     * Work in progress
     
 ## Meta
-Manoj Kumar Tiwari – [@iManoj_Tiwari](https://twitter.com/iManoj_Tiwari) – manojtiwari1.1v@gmail.com
+Manoj Kumar Tiwari 
+– manojtiwari1.1v@gmail.com
+– [@iManoj_Tiwari](https://twitter.com/iManoj_Tiwari)
+– [Manoj Tiwari](https://www.linkedin.com/in/manoj-tiwari-3a3a6010a/)
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
