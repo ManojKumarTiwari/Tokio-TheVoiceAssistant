@@ -53,5 +53,5 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 - https://blog.rasa.com/how-to-build-a-voice-assistant-with-open-source-rasa-and-mozilla-tools/
 - https://www.youtube.com/watch?v=H9ZJ1uT8RFw&list=PLzMcBGfZo4-mBungzp4GO4fswxO8wTEFx&index=8
 - https://techwithtim.net/tutorials/voice-assistant/opening-programs/
-
+- http://www.learningaboutelectronics.com/Articles/How-to-launch-computer-programs-using-Python.php
 
