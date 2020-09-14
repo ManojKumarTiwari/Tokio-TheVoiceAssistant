@@ -3,7 +3,9 @@
 
 ## Demo
 
-[Watch the demo here](https://www.youtube.com/watch?v=emvxOMxnIkg)
+[Opening websites, movie reviews, opening installed application etc](https://www.youtube.com/watch?v=emvxOMxnIkg)
+[Playing videos on Youtube](https://www.youtube.com/watch?v=-tOyvxiHmHs)
+
 
 ## Requirements
 ```sh
