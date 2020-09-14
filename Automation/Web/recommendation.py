@@ -15,6 +15,7 @@ class IMDBlatestBestMovies():
         sortBy = self.driver.find_element_by_xpath('//*[@id="lister-sort-by-options"]')
         sortBy.click()
 
+
 # # Testing
 # bot = IMDBlatestBestMovies()
 # bot.recommend()

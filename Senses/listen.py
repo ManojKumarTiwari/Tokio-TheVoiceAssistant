@@ -9,8 +9,8 @@ def myCommand():
     r = sr.Recognizer()
     with sr.Microphone() as source:
         print('Say something...')
-        # r.pause_threshold = 1
-        r.adjust_for_ambient_noise(source) # removed "duration=1" argument to reduce wait time
+        r.pause_threshold = 1
+        r.adjust_for_ambient_noise(source, duration=1) # removed "duration=1" argument to reduce wait time
         audio = r.listen(source)
     try:
         command = r.recognize_google(audio).lower()

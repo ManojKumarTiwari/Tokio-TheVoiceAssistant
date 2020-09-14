@@ -143,9 +143,6 @@ audio-0.8.2/
 # deepspeech model files
 Pretrained/
 
-# data files
-*.txt
-*.json
 
 
 
